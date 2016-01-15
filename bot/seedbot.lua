@@ -220,7 +220,9 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    },
+}
+@Anony5
+    ,
     sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
